@@ -1,6 +1,6 @@
 # widescreen_production
 ComfyUI workflow Dockerized via [comfyui-wizard](https://comfy.getrunpod.io).
-Submission: https://comfy.getrunpod.io/dashboard/submissions/kd7e5wyzj0rgrfh5r17wm64zhn87sdgr
+Submission: https://comfy.getrunpod.io/dashboard/submissions/kd73zwwpn5nv5hc7ycs1ssx4eh87skte
 ## Build it yourself
 ```bash
 docker build -t my-comfy-workflow .
